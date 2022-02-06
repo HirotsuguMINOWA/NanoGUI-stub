@@ -17,3 +17,7 @@
 3. Fixed a little.
 4. Added ReadMe.md and setup.py
 
+## How to install
+```bash
+pip install -e git+https://github.com/HirotsuguMINOWA/NanoGUI-stub#egg=nanogui-stubs
+```
