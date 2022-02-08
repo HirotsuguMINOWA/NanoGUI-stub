@@ -1,4 +1,4 @@
-# NanoGUI-stub
+# NanoGUI-typeshed-stubs
 
 - Attention) This library is not completed.
   - I'm not familiar with pybind11-stubgen so that the generated library might be incomplete.
