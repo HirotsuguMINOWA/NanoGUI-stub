@@ -19,5 +19,6 @@
 
 ## How to install
 ```bash
-pip install -e git+https://github.com/HirotsuguMINOWA/NanoGUI-stub#egg=nanogui-stubs
+pip install -e git+https://github.com/HirotsuguMINOWA/NanoGUI-typeshed-stubs#egg=nanogui-typeshed-stubs
+
 ```
